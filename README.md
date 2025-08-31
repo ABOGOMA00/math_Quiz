@@ -19,4 +19,4 @@ The game allows the user to:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MahmoudGoma/Math-Quiz-Game-Cpp.git
+   git clone https://github.com/ABOGOMA00/math_Quiz/blob/main/math_quiez.cpp
